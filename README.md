@@ -6,8 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[StepFreeGigs](https://github.com/santosluizfelipe/StepFreeGigs)**            | A mobile app for finding wheelchair accessible gigs in London with step-free navigation | React Native, Expo, Node.js, Express.js, Jest |
 
 ## Work Experience
 
