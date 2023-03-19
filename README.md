@@ -28,7 +28,7 @@ I leveraged this during my time at Makers, a language-agnostic bootcamp, to beco
 including PostgreSQL
 • Processed projects using Docker container
 
-**Tasca Kome**, __Manager/Sake Sommelier__                                      March 2017 – August 2021 
+**Tasca Kome**, *Manager/Sake Sommelier*                                      March 2017 – August 2021 
 
 
 • Managed all the restaurant’s dining room, bar, and administrative responsibilities, while also supervising
