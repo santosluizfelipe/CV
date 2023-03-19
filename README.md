@@ -1,68 +1,46 @@
-## Your Name
+## Luiz Santos
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hi, I'm Luiz! I'm a Brazilian junior full-stack software engineer living in London. I've completed an internship at the legal consulting start-up LawAdvisor and recently graduated from the full-stack bootcamp Makers Academy.
+
+During my internship at LawAdvisor, I primarily used Elixir and Phoenix, but I feel comfortable working with in JavaScript/React and Ruby/Rails.
+
+## Background
+
+Prior to studying software engineering, I spent three years as the manager of a Japanese restaurant, where I became a certified Japanese sake sommelier and even spent a few months in rural Japan. During this time, I honed my interpersonal communication and teamwork skills, often being responsible for the entire restaurant's operations.
+
+Although I'm currently based in London, I've also lived in Brazil, Portugal, and Japan, causing me to be adaptable by nature. Forced to think creatively to express myself in foreign countries, I've learned the importance of asking 'why' before 'how', and I always strive to comprehend the logic driving 'why' first when faced with new concepts. These experiences drove my passion for tackling new languages, whether they be human languages or programming languages. 
+
+I leveraged this during my time at Makers, a language-agnostic bootcamp, to become versed in JavaScript, Ruby, React, Node, Sinatra, Jest, RSpec, Mongodb, PostgreSQL, Express, HTML, TDD, OOP, Agile, MVC, CSS.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+|Project Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[StepFreeGigs](https://github.com/santosluizfelipe/StepFreeGigs)**            | A mobile app for finding wheelchair accessible gigs in London with step-free navigation | React Native, Expo, Node.js, Express.js, Jest |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**LawAdvisor** March 2022 – June 2022  
+Junior Software Engineer Trainee
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+• Created create, read, update, and delete (CRUD) operations using Elixir/Phoenix to create the backend/frontend 
+• Developed CRUD applications using Phoenix and Elixir, utilizing a RESTful API and certain databases,
+including PostgreSQL
+• Processed projects using Docker container
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Tasca Kome** March 2017 – August 2021 
+Manager/Sake Sommelier
 
-- Any experience relevent to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+• Managed all the restaurant’s dining room, bar, and administrative responsibilities, while also supervising
+staff, which consisted of up to 15 employees at a time
+• Oversaw the recruiting and hiring process by conducting interviews and leading training, as well as handling
+the staffing and scheduling of the entire restaurant
+• Communicated regularly with twenty local suppliers to ensure the restaurant was consistently stocked, while
+also negotiating discounts of up to 15% on key items
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+-Gym
+-Coocking
+-Gaming
+-Watching and playing football
