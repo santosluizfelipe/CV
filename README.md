@@ -1,4 +1,4 @@
-## Luiz Santos
+## :technologist: Luiz Santos
 
 Hi, I'm Luiz! I'm a Brazilian junior full-stack software engineer living in London. I've completed an internship at the legal consulting start-up LawAdvisor and recently graduated from the full-stack bootcamp Makers Academy.
 
