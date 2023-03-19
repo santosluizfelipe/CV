@@ -41,6 +41,10 @@ also negotiating discounts of up to 15% on key items
 ## Hobbies
 
 -Gym
--Coocking
+
+-Cooking
+
 -Gaming
+
 -Watching and playing football
+
