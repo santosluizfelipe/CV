@@ -17,6 +17,8 @@ I leveraged this during my time at Makers, a language-agnostic bootcamp, to beco
 |Project Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[StepFreeGigs](https://github.com/santosluizfelipe/StepFreeGigs)**            | A mobile app for finding wheelchair accessible gigs in London with step-free navigation | React Native, Expo, Node.js, Express.js, Jest |
+| **[Acebook](https://github.com/santosluizfelipe/acebook-fire)**            | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
+| **[Makers-bnb](https://github.com/santosluizfelipe/makers-bnb)** | A booking app which enables users to sign up; login; view properties available to book; see booking availability; request to book; upload their own properties | Ruby, Active Record, RSpec, Rake, HTML, CSS |
 
 ## Work Experience
 
