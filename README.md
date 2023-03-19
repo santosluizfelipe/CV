@@ -2,7 +2,7 @@
 
 Hi, I'm Luiz! I'm a Brazilian junior full-stack software engineer living in London. I've completed an internship at the legal consulting start-up LawAdvisor and recently graduated from the full-stack bootcamp Makers Academy.
 
-During my internship at LawAdvisor, I primarily used Elixir and Phoenix, but I feel comfortable working with in JavaScript/React and Ruby/Rails.
+During my internship at LawAdvisor, I primarily used Elixir and Phoenix, but I feel comfortable working with JavaScript/React and Ruby/Rails.
 
 ## Background
 
