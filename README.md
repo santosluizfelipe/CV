@@ -20,8 +20,8 @@ I leveraged this during my time at Makers, a language-agnostic bootcamp, to beco
 
 ## Work Experience
 
-**LawAdvisor** 
- __Junior Software Engineer Trainee__ 
+**LawAdvisor**  
+ __Junior Software Engineer Trainee__   
  March 2022 – June 2022  
 
 • Created create, read, update, and delete (CRUD) operations using Elixir/Phoenix to create the backend/frontend 
@@ -29,8 +29,8 @@ I leveraged this during my time at Makers, a language-agnostic bootcamp, to beco
 including PostgreSQL
 • Processed projects using Docker container
 
-**Tasca Kome**
- *Manager/Sake Sommelier* 
+**Tasca Kome**  
+ *Manager/Sake Sommelier*   
 March 2017 – August 2021 
 
 • Managed all the restaurant’s dining room, bar, and administrative responsibilities, while also supervising
