@@ -44,5 +44,5 @@ including PostgreSQL
 
 :video_game: Gaming
 
-:football: Watching and playing football
+:soccer: Watching and playing football
 
